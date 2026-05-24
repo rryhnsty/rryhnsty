@@ -2,14 +2,15 @@
 
 #  🪪 About Me:
 <h1 align="center">✨ Hi Everyone 👋 I'm Reyhan Setya 🚀</h1>
+<h3 align="center">I enjoy learning new things, especially in the world of software development💻.</h3>
 
-<h3>
+<p>
 💻 Passionate about Technology & Programming <br>
 🌱 Always learning new things and exploring software development <br>
 🔥 Turning ideas into code and creativity into projects <br>
 🎯 Interested in Web Development, Programming, and Tech Innovation <br>
 ⚡ Love solving problems and building cool stuff
-</h3>
+</p>
 
 <p align="center">
 ✨ 🚀 💻 🎨 ☕ 🌙 🔥
