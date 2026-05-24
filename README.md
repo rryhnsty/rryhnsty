@@ -4,8 +4,6 @@
 <h1 align="center">✨ Hi Everyone 👋 I'm Reyhan Setya 🚀</h1>
 <h3 align="center">I enjoy learning new things, especially in the world of software development💻.</h3>
 
--
-
 <p>
 💻 Passionate about Technology & Programming <br>
 🌱 Always learning new things and exploring software development <br>
