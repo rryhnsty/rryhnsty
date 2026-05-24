@@ -3,7 +3,7 @@
 #  🪪 About Me:
 <h1 align="center">✨ Hi Everyone 👋 I'm Reyhan Setya 🚀</h1>
 
-<h3 align="center">
+<h3>
 💻 Passionate about Technology & Programming <br>
 🌱 Always learning new things and exploring software development <br>
 🔥 Turning ideas into code and creativity into projects <br>
