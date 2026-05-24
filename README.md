@@ -1,8 +1,19 @@
 <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxnMHkwMTdjazFvcHZubGxxbXcwMHdjcnJmNzgzeXdkNW5kbXVkcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="300"/> </div>
 
 #  🪪 About Me:
-<h3 align="center"> I'm a student interested in technology and programming. </h3>
-<h1 align="center"> I enjoy learning new things, especially in the world of software development💻. </h1>
+<h1 align="center">✨ Hi Everyone 👋 I'm Reyhan Setya 🚀</h1>
+
+<h3 align="center">
+💻 Passionate about Technology & Programming <br>
+🌱 Always learning new things and exploring software development <br>
+🔥 Turning ideas into code and creativity into projects <br>
+🎯 Interested in Web Development, Programming, and Tech Innovation <br>
+⚡ Love solving problems and building cool stuff
+</h3>
+
+<p align="center">
+✨ 🚀 💻 🎨 ☕ 🌙 🔥
+</p>
 
 
 ## 🌐 Socials:
