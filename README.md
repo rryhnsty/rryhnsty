@@ -12,7 +12,7 @@
 ⚡ Love solving problems and building cool stuff
 </p>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rrvlhny) 
 
 # 💻 Tech Stack:
