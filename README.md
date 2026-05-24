@@ -1,8 +1,8 @@
 <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxnMHkwMTdjazFvcHZubGxxbXcwMHdjcnJmNzgzeXdkNW5kbXVkcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="300"/> </div>
 
 #  🪪 About Me:
-I'm a student interested in technology and programming.
-I enjoy learning new things, especially in the world of software development💻.
+<h3 align="center"> I'm a student interested in technology and programming. </h3>
+<h1 align="center"> I enjoy learning new things, especially in the world of software development💻. </h1>
 
 
 ## 🌐 Socials:
