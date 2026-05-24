@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-✨ 🚀 💻 🎨 ☕ 🌙 🔥
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Future+Programmer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
 
 
@@ -32,5 +32,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=rryhnsty&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
