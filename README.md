@@ -39,7 +39,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rryhnsty/rryhnsty/snake-output/snake.svg" alt="Snake animation" />
